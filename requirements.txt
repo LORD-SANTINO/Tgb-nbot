@@ -2,3 +2,4 @@ pyTelegramBotAPI
 python-telegram-bot
 bs4
 cloudscraper
+requests
